@@ -9,7 +9,7 @@ This Streamlit web app classifies Iris flowers into Setosa, Versicolor, or Virgi
 - Pandas, NumPy
 
 ## 🚀 Try the App Live
-[Click here to open the app](https://your-username-iris-streamlit-app.streamlit.app)
+[Click here to open the app](https://vzfrsidirpvwfip3fzogyc.streamlit.app/)
 
 ## 📁 Setup Instructions (Local)
 ```bash
