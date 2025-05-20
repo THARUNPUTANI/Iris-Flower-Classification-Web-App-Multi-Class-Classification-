@@ -1,2 +1,19 @@
-# Iris-Flower-Classification-Web-App-Multi-Class-Classification-
-Developed a web-based ML application using Streamlit to classify Iris flower species based on four input features. Built and trained a Random Forest Classifier using Scikit-learn, achieving high accuracy. The model predicts between Setosa, Versicolor, and Virginica species in real-time via a user-friendly interface.
+# 🌸 Iris Flower Classification App
+
+This Streamlit web app classifies Iris flowers into Setosa, Versicolor, or Virginica using a trained Random Forest model.
+
+## 🔧 Technologies Used
+- Python
+- Streamlit
+- Scikit-learn
+- Pandas, NumPy
+
+## 🚀 Try the App Live
+[Click here to open the app](https://your-username-iris-streamlit-app.streamlit.app)
+
+## 📁 Setup Instructions (Local)
+```bash
+git clone https://github.com/your-username/iris-streamlit-app.git
+cd iris-streamlit-app
+pip install -r requirements.txt
+streamlit run app.py
